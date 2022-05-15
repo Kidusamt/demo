@@ -1,2 +1,2 @@
 # demo
-firs
+learning git
